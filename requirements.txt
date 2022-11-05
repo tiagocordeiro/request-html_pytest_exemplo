@@ -6,7 +6,7 @@ bs4==0.0.1
 certifi==2018.10.15
 chardet==3.0.4
 cssselect==1.0.3
-fake-useragent==0.1.11
+fake-useragent==0.1.14
 idna==2.7
 lxml==4.2.5
 more-itertools==4.3.0
