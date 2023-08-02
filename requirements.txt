@@ -4,7 +4,7 @@ attrs==18.2.0
 beautifulsoup4==4.6.3
 bs4==0.0.1
 certifi==2018.10.15
-chardet==3.0.4
+chardet==5.2.0
 cssselect==1.0.3
 fake-useragent==0.1.11
 idna==2.7
